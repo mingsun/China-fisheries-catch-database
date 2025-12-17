@@ -1,0 +1,13 @@
+FAO.class.full,FAO.class,target.species.group,appearance
+falling gear,f,fish,10
+falling gear,f,cephalopods,10
+gillnets and entangling nets,g,fish,6
+gillnets and entangling nets,g,crustacean,10
+hooks and lines,hl,fish,4
+lift nets,lift,fish,6
+lift nets,lift,cephalopods,6
+multiple gears,multi,NA,NA
+seine and surrounding nets,sur,fish,1
+traps,traps,fish,8
+traps,traps,crustacean,4
+trawls,trawls,crustacean,10

@@ -1,0 +1,26 @@
+country,rate,fisheries
+Argentina,0.4,hake and shrimp
+Australia,0.246,trawl fisheries
+Bangladesh,0.957,shrimp and finfish trawl
+Brazil,0.579,shrimp trawl
+Canada,0.081,"Atlantic scallop dredge, groundfish, lobster/crab, Pacific fisheries"
+Chile,0.189,southern hake
+China,0.69,national catch
+India,0.563,national catch
+Indonesia,0.626,national bottom trawl fleet
+Japan,0.13,national catch
+Malaysia,0.56,trawl fleet
+Mexico,0.38,shrimp trawl
+Peru,0.393,"anchovy, horse mackerel, and shrimp trawl "
+Philippines,0.312,bottom trawl and shrimp fishery
+Russian Federation,0.2,Barents  Sea and Bering Sea fisheries
+Sri Lanka,0.514,shrimp fishery
+Thiland,0.64,trawl fishery
+United States,0.223,national catch
+Venezuela,0.2,shrimp trawl
+Vietnam,0.8,trawl fleet
+Northeast Atlantic (FAO 27),0.198,total catch
+Mediterranean and Balck Sea (FAO 37),0.211,total catch
+Central America and the Caribbean,0.644,shrimp trawl
+Africa,0.7,total catch
+total,0.404,

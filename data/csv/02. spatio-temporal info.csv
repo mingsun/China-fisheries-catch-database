@@ -1,0 +1,141 @@
+case,literature,sea.basin,sea.basin,x1,x2,y1,y2,Season,季节,notes
+1,1,Bohai Sea,渤海,119.6,120.1,39.2,39.8,spring,春,
+2,1,Bohai Sea,渤海,119.6,120.1,39.2,39.8,summer,夏,
+3,1,Bohai Sea,渤海,119.6,120.1,39.2,39.8,spring,春,
+4,1,Bohai Sea,渤海,119.6,120.1,39.2,39.8,summer,夏,
+5,2,East China Sea,东海,123,126.5,29.5,31.5,all year,全年,
+6,3,South China Sea,南海,109,117.5,5.5,16,autumn,秋,
+7,4,South China Sea,南海,113.88,113.92,21.82,21.93,autumn,秋,单片刺网
+8,4,South China Sea,南海,113.88,113.92,21.82,21.93,autumn,秋,双重刺网
+9,4,South China Sea,南海,113.88,113.92,21.82,21.93,autumn,秋,三重刺网
+10,5,South China Sea,南海,113,113,22.1,22.1,autumn,秋,
+11,6,Yellow Sea,黄海,119.9,119.9,35.57,35.57,spring,春,30mm菱目网囊
+12,6,Yellow Sea,黄海,119.9,119.9,35.57,35.57,spring,春,30mm方目网囊
+13,7,East China Sea,东海,125.25,125.93,30.9,30.97,autumn,秋,
+14,8,South China Sea,南海,113.27,115.5,9.65,14.9,spring,春,
+15,9,South China Sea,南海,110.67,110.75,21.13,21.22,summer,夏,
+16,10,East China Sea,东海,122.73,122.77,29.87,30.2,autumn,秋,
+17,11,South China Sea,南海,111.13,111.27,20.3,20.65,spring,春,
+18,12,South China Sea,南海,113.37,113.42,21.85,21.93,autumn,秋,
+19,13,South China Sea,南海,118,119,24,25,all year,全年,
+20,14,South China Sea,南海,118,119,24,24.5,all year,全年,
+21,15,Bohai Sea,渤海,118.95,118.95,37.45,37.45,spring,春,春
+22,15,Bohai Sea,渤海,118.95,118.95,37.45,37.45,summer,夏,夏
+23,16,Yellow Sea,黄海,119.6,122.97,33.5,35.27,autumn,秋,2015
+24,16,Yellow Sea,黄海,119.6,122.97,33.5,35.27,autumn,秋,2016
+25,16,Yellow Sea,黄海,119.6,122.97,33.5,35.27,summer,夏,2017
+26,17,Yellow Sea,黄海,119.3,119.58,34.96,35.47,spring+autumn,春+秋,
+27,18,East China Sea,东海,122.83,122.93,29,31.33,all year,全年,
+28,19,Bohai Sea,渤海,117.5,118,38,39,spring,春,春
+29,19,Bohai Sea,渤海,117.5,118,38,39,autumn,秋,秋
+30,20,Yellow Sea,黄海,119.32,119.62,35.13,35.4,all year,春,春
+31,20,Yellow Sea,黄海,119.32,119.62,35.13,35.4,all year,秋,秋
+32,20,Yellow Sea,黄海,119.32,119.62,35.13,35.4,all year,冬,冬
+33,21,East China Sea,东海,120.5,121.2,27.17,27.87,all year,全年,
+34,22,East China Sea,东海,125.25,125.93,30.9,30.97,summer+autumn+winter,夏+秋+冬,
+35,23,Yellow Sea,黄海,123.6,123.6,38.87,39,autumn,秋,
+36,24,South China Sea,南海,109.5,110,20,20.5,spring,春,春
+37,24,South China Sea,南海,109.5,110,20,20.5,summer,夏,夏
+38,24,South China Sea,南海,109.5,110,20,20.5,autumn,秋,秋
+39,24,South China Sea,南海,109.5,110,20,20.5,winter,冬,冬
+40,25,Yellow Sea,黄海,121,121.5,35.5,36.75,all year,全年,A作业类型
+41,25,Yellow Sea,黄海,121,121.5,35.5,36.75,all year,全年,B作业类型
+42,25,Yellow Sea,黄海,121,121.5,35.5,36.75,all year,全年,C作业类型
+43,25,Yellow Sea,黄海,121,121.5,35.5,36.75,all year,全年,D作业类型
+44,26,East China Sea,东海,122.83,125.5,29,31.5,spring,春,春
+45,26,East China Sea,东海,122.83,125.5,29,31.5,autumn,秋,秋
+46,27,Yellow Sea,黄海,119.22,119.55,34.87,34.93,autumn,秋,
+47,28,Yellow Sea,黄海,122,122,37.5,37.5,autumn,秋,秋
+48,28,Yellow Sea,黄海,122,122,37.5,37.5,winter,冬,冬
+49,28,Yellow Sea,黄海,122,122,37.5,37.5,spring,春,春
+50,28,Yellow Sea,黄海,122,122,37.5,37.5,summer,夏,夏
+51,29,East China Sea,东海,118.25,118.25,23.9,23.92,all year,全年,
+52,30,South China Sea,南海,108,115,13,22,all year,全年,近海陆架区
+53,30,South China Sea,南海,113,115,9,12,all year,全年,外海深水区
+54,31,East China Sea,东海,121.33,121.5,30.5,30.66,all year,全年,2009
+55,31,East China Sea,东海,121.33,121.5,30.5,30.66,all year,全年,2010
+56,31,East China Sea,东海,121.33,121.5,30.5,30.66,all year,全年,2011
+57,32,Yellow Sea,黄海,120.83,121.5,36.27,37.17,all year,冬,冬
+58,32,Yellow Sea,黄海,120.83,121.5,36.27,37.17,all year,春,春
+59,32,Yellow Sea,黄海,120.83,121.5,36.27,37.17,all year,夏,夏
+60,32,Yellow Sea,黄海,120.83,121.5,36.27,37.17,all year,秋,秋
+61,33,Bohai Sea,渤海,121.5,121.5,40.5,40.5,summer+autumn,夏+秋,
+62,33,Bohai Sea,渤海,121.5,121.5,40.5,40.5,summer+autumn,夏+秋,
+63,33,Bohai Sea,渤海,121.5,121.5,40.5,40.5,summer+autumn,夏+秋,
+64,34,East China Sea,东海,120,122,31.5,33.5,spring,春,
+65,35,East China Sea,东海,118.17,118.17,24.58,24.58,all year,全年,
+66,36,Yellow Sea,黄海,120,124,34,38,all year,全年,2016
+67,36,Yellow Sea,黄海,121,123.5,34.5,38,all year,全年,2017
+68,36,Yellow Sea,黄海,121,124,33.5,37,all year,全年,2018
+69,37,South China Sea,南海,111,120,18.5,20.5,spring,春,春
+70,37,South China Sea,南海,111,120,18.5,20.5,autumn,秋,秋
+71,38,East China Sea,东海,123.25,123.6,31.27,32.28,summer+winter,夏+冬,
+72,39,East China Sea,东海,118,118,24,24,all year,全年,
+73,40,Yellow Sea,黄海,119.6,119.6,35,35,autumn,秋,
+74,41,Yellow Sea,黄海,122,122,37.5,37.5,spring,春,小石岛-春
+75,41,Yellow Sea,黄海,122,122,37.5,37.5,spring,春,小石岛-春
+76,41,Yellow Sea,黄海,122,122,37.5,37.5,summer,夏,小石岛-夏
+77,41,Yellow Sea,黄海,122,122,37.5,37.5,summer,夏,小石岛-夏
+78,41,Yellow Sea,黄海,122,122,37.5,37.5,winter,冬,小石岛-冬
+79,41,Yellow Sea,黄海,122,122,37.5,37.5,winter,冬,小石岛-冬
+80,41,Yellow Sea,黄海,122.6,122.6,37.25,37.25,spring,春,俚岛-春
+81,41,Yellow Sea,黄海,122.6,122.6,37.25,37.25,spring,春,俚岛-春
+82,41,Yellow Sea,黄海,122.6,122.6,37.25,37.25,summer,夏,俚岛-夏
+83,41,Yellow Sea,黄海,122.6,122.6,37.25,37.25,summer,夏,俚岛-夏
+84,41,Yellow Sea,黄海,122.6,122.6,37.25,37.25,winter,冬,俚岛-冬
+85,41,Yellow Sea,黄海,122.6,122.6,37.25,37.25,winter,冬,俚岛-冬
+86,42,South China Sea,南海,110,118,6,20,spring,春,春
+87,42,South China Sea,南海,110,118,6,20,summer,夏,夏
+88,42,South China Sea,南海,110,118,6,20,autumn,秋,秋
+89,42,South China Sea,南海,110,118,6,20,winter,冬,冬
+90,43,East China Sea,东海,120.75,120.75,27.2,27.2,winter,冬,
+91,44,East China Sea,东海,123,126.5,29.5,33,all year,全年,
+92,45,East China Sea,东海,123,128.5,29,34.5,all year,全年,2010
+93,45,East China Sea,东海,123,128.5,27.5,34.5,all year,全年,2011
+94,45,East China Sea,东海,122.5,128,27,34.5,all year,全年,2012
+95,45,East China Sea,东海,122.5,128,29,34.5,all year,全年,2013
+96,45,East China Sea,东海,122.5,126.5,28.5,31.5,all year,全年,2014
+97,46,East China Sea,东海,121,122,30.66,32,spring,春,
+98,47,Bohai Sea,渤海,121.5,121.5,40.5,40.5,autumn,秋,单片刺网
+99,47,Bohai Sea,渤海,121.5,121.5,40.5,40.5,autumn,秋,双重刺网
+100,47,Bohai Sea,渤海,121.5,121.5,40.5,40.5,autumn,秋,三重刺网
+101,48,East China Sea,东海,120.5,123,27,29.5,spring+summer,春+夏,
+102,49,Bohai Sea,渤海,119.28,119.7,37.2,37.55,autumn,秋,
+103,50,Yellow Sea,黄海,120.83,121.5,36.27,37.16,spring,春,春
+104,50,Yellow Sea,黄海,120.83,121.5,36.27,37.16,summer,夏,夏
+105,50,Yellow Sea,黄海,120.83,121.5,36.27,37.16,autumn,秋,秋
+106,50,Yellow Sea,黄海,120.83,121.5,36.27,37.16,winter,冬,冬
+107,51,Bohai Sea,渤海,119.08,120,37.2,37.66,spring,春,
+108,52,Yellow Sea,黄海,119.6,122.08,34.07,35.27,autumn,秋,
+109,53,Bohai Sea,渤海,121.33,121.66,40.7,40.93,autumn,秋,
+110,54,South China Sea,南海,114.87,114.93,22.72,22.75,autumn,秋,刺网-秋
+111,54,South China Sea,南海,114.87,114.93,22.72,22.75,autumn,秋,地笼-秋
+112,54,South China Sea,南海,114.87,114.93,22.72,22.75,autumn,冬,刺网-冬
+113,54,South China Sea,南海,114.87,114.93,22.72,22.75,autumn,冬,地笼-冬
+114,54,South China Sea,南海,114.87,114.93,22.72,22.75,autumn,春,刺网-春
+115,54,South China Sea,南海,114.87,114.93,22.72,22.75,autumn,春,地笼-春
+116,54,South China Sea,南海,114.87,114.93,22.72,22.75,autumn,夏,刺网-夏
+117,54,South China Sea,南海,114.87,114.93,22.72,22.75,autumn,夏,地笼-夏
+118,55,Yellow Sea,黄海,120,124,31,36.5,autumn,秋,单片刺网
+119,55,Yellow Sea,黄海,120,124,31,36.5,autumn,秋,双重刺网
+120,55,Yellow Sea,黄海,120,124,31,36.5,autumn,秋,三重刺网
+121,56,South China Sea,南海,111,117,9.2,14.5,spring,春,上升流渔场-春季
+122,56,South China Sea,南海,111,117,9.2,14.5,spring,春,上升流渔场-秋季
+123,56,South China Sea,南海,111,117,9.2,14.5,autumn,秋,岛礁区渔场-春季
+124,56,South China Sea,南海,111,117,9.2,14.5,autumn,秋,岛礁区渔场-秋季
+125,57,South China Sea,南海,110.66,110.75,21.13,21.22,all year,全年,单杆虾拖网
+126,57,South China Sea,南海,112.12,112.33,21.55,21.8,all year,全年,双杆虾拖网
+127,58,Yellow Sea,黄海,121,124,32,35,autumn,秋,
+128,59,Yellow Sea,黄海,121,124,34.5,37,all year,全年,2013
+129,59,Yellow Sea,黄海,121,124,34.5,37,all year,全年,2014
+130,59,Yellow Sea,黄海,121,124,34.5,37,all year,全年,2015
+131,60,South China Sea,南海,112,112.33,21.5,21.8,summer,夏,
+132,61,East China Sea,东海,121.75,121.95,29.9,30,spring,春,2012
+133,61,East China Sea,东海,121.75,121.95,29.9,30,autumn,秋,2011
+134,62,East China Sea,东海,121.5,122.45,30.5,31,spring,春,
+135,62,East China Sea,东海,121.5,122.45,30.5,31,summer,夏,
+136,62,East China Sea,东海,121.5,122.45,30.5,31,autumn,秋,
+137,62,East China Sea,东海,121.5,122.45,30.5,31,winter,冬,
+138,63,East China Sea,东海,121.95,121.95,31.6,31.66,summer+autumn,夏+秋,
+139,64,South China Sea,南海,108.66,108.8,21.6,21.66,all year,全年,
+140,65,East China Sea,东海,123,125,25,26.5,summer+autumn,夏+秋,

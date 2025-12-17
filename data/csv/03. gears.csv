@@ -1,0 +1,142 @@
+case,literature,网具,类,型,式,FAO.class.full,FAO.class,gear.1,gear.2,gear.3,使用限制,gear.use
+1,1,三重刺网-定置,刺网,三重,定置,gillnets and entangling nets,g,gillnet,trammel,fixed,过渡渔具,transitional
+2,1,三重刺网-漂流,刺网,三重,漂流,gillnets and entangling nets,g,gillnet,trammel,drift,过渡渔具,transitional
+3,1,单片刺网-定置,刺网,单片,定置,gillnets and entangling nets,g,gillnet,single,fixed,准用渔具,permissible
+4,1,单片刺网-漂流,刺网,单片,漂流,gillnets and entangling nets,g,gillnet,single,drift,准用渔具,permissible
+5,2,桁杆虾拖网,拖网,桁杆,单船,trawls,trawls,trawl,beam,single,过渡渔具,transitional
+6,3,灯光罩网,掩罩,/,/,falling gear,f,falling net,/,/,准用渔具,permissible
+7,4,单片刺网,刺网,单片,漂流,gillnets and entangling nets,g,gillnet,single,drift,准用渔具,permissible
+8,4,双重刺网,刺网,双重,漂流,gillnets and entangling nets,g,gillnet,double,drift,过渡渔具,transitional
+9,4,三重刺网,刺网,三重,漂流,gillnets and entangling nets,g,gillnet,trammel,drift,过渡渔具,transitional
+10,5,张网,张网,有翼单囊,双桩,traps,traps,stow net,winged single-bag,two-peg,过渡渔具,transitional
+11,6,双桩竖杆张网,张网,竖杆,双桩,traps,traps,stow net,vertical,two-peg,过渡渔具,transitional
+12,6,双桩竖杆张网,张网,竖杆,双桩,traps,traps,stow net,vertical,two-peg,过渡渔具,transitional
+13,7,帆张网,张网,张纲,单锚,traps,traps,stow net,canvas,single-anchor,过渡渔具,transitional
+14,8,灯光罩网,掩罩,/,/,falling gear,f,falling net,/,/,准用渔具,permissible
+15,9,桁杆虾拖网,拖网,桁杆,单船,trawls,trawls,trawl,beam,single,过渡渔具,transitional
+16,10,桁杆虾拖网,拖网,桁杆,单船,trawls,trawls,trawl,beam,single,过渡渔具,transitional
+17,11,漂流单片刺网,刺网,单片,漂流,gillnets and entangling nets,g,gillnet,single,drift,准用渔具,permissible
+18,12,漂流单片刺网,刺网,单片,漂流,gillnets and entangling nets,g,gillnet,single,drift,准用渔具,permissible
+19,13,桁杆虾拖网,拖网,桁杆,单船,trawls,trawls,trawl,beam,single,过渡渔具,transitional
+20,14,蟹笼,笼壶,倒须,定置延绳,traps,traps,cage/pot,/,/,准用渔具,permissible
+21,15,须子网,陷阱,插网,导陷,traps,traps,entrapment net,/,/,禁用渔具,prohibited
+22,15,须子网,陷阱,插网,导陷,traps,traps,entrapment net,/,/,禁用渔具,prohibited
+23,16,双船有翼单囊拖网,拖网,有翼单囊,双船,trawls,trawls,trawl,winged single-bag,pair,过渡渔具,transitional
+24,16,双船有翼单囊拖网,拖网,有翼单囊,双船,trawls,trawls,trawl,winged single-bag,pair,过渡渔具,transitional
+25,16,双船有翼单囊拖网,拖网,有翼单囊,双船,trawls,trawls,trawl,winged single-bag,pair,过渡渔具,transitional
+26,17,双桩竖杆张网,张网,竖杆,双桩,traps,traps,stow net,vertical,two-peg,过渡渔具,transitional
+27,18,单拖网,拖网,/,单船,trawls,trawls,trawl,/,single,过渡渔具,transitional
+28,19,单船单囊桁杆虾拖网,拖网,桁杆,单船,trawls,trawls,trawl,beam,single,过渡渔具,transitional
+29,19,单船单囊桁杆虾拖网,拖网,桁杆,单船,trawls,trawls,trawl,beam,single,过渡渔具,transitional
+30,20,张网,张网,/,/,traps,traps,stow net,/,/,过渡渔具,transitional
+31,20,张网,张网,/,/,traps,traps,stow net,/,/,过渡渔具,transitional
+32,20,张网,张网,/,/,traps,traps,stow net,/,/,过渡渔具,transitional
+33,21,张网,张网,/,/,traps,traps,stow net,/,/,过渡渔具,transitional
+34,22,帆张网,张网,张纲,单锚,traps,traps,stow net,canvas,single-anchor,过渡渔具,transitional
+35,23,单船有翼单囊底拖网,拖网,有翼单囊,单船,trawls,trawls,trawl,winged single-bag,single,过渡渔具,transitional
+36,24,双桩桁杆张网,张网,桁杆,双桩,traps,traps,stow net,singel-stake,two-peg,过渡渔具,transitional
+37,24,双桩桁杆张网,张网,桁杆,双桩,traps,traps,stow net,singel-stake,two-peg,过渡渔具,transitional
+38,24,双桩桁杆张网,张网,桁杆,双桩,traps,traps,stow net,singel-stake,two-peg,过渡渔具,transitional
+39,24,双桩桁杆张网,张网,桁杆,双桩,traps,traps,stow net,singel-stake,two-peg,过渡渔具,transitional
+40,25,三重刺网+单片刺网,刺网,单片+三重,漂流,gillnets and entangling nets,g,gillnet,trammel/single,drift,过渡渔具,transitional
+41,25,三重刺网+单片刺网,刺网,单片+三重,漂流,gillnets and entangling nets,g,gillnet,trammel/single,drift,过渡渔具,transitional
+42,25,三重刺网+单片刺网,刺网,单片+三重,漂流,gillnets and entangling nets,g,gillnet,trammel/single,drift,过渡渔具,transitional
+43,25,三重刺网+单片刺网,刺网,单片+三重,漂流,gillnets and entangling nets,g,gillnet,trammel/single,drift,过渡渔具,transitional
+44,26,单拖网,拖网,/,单船,trawls,trawls,trawl,/,single,过渡渔具,transitional
+45,26,单拖网,拖网,/,单船,trawls,trawls,trawl,/,single,过渡渔具,transitional
+46,27,单船底拖网,拖网,/,单船,trawls,trawls,trawl,/,single,过渡渔具,transitional
+47,28,三重刺网,刺网,三重,定置,gillnets and entangling nets,g,gillnet,trammel,fixed,过渡渔具,transitional
+48,28,三重刺网,刺网,三重,定置,gillnets and entangling nets,g,gillnet,trammel,fixed,过渡渔具,transitional
+49,28,三重刺网,刺网,三重,定置,gillnets and entangling nets,g,gillnet,trammel,fixed,过渡渔具,transitional
+50,28,三重刺网,刺网,三重,定置,gillnets and entangling nets,g,gillnet,trammel,fixed,过渡渔具,transitional
+51,29,双桩有翼单囊张网,张网,有翼单囊,双桩,traps,traps,stow net,winged single-bag,two-peg,过渡渔具,transitional
+52,30,大型钢质灯光罩网,掩罩,/,/,falling gear,f,falling net,/,/,准用渔具,permissible
+53,30,大型钢质灯光罩网,掩罩,/,/,falling gear,f,falling net,/,/,准用渔具,permissible
+54,31,定置张网,张网,/,/,traps,traps,stow net,/,/,过渡渔具,transitional
+55,31,定置张网,张网,/,/,traps,traps,stow net,/,/,过渡渔具,transitional
+56,31,定置张网,张网,/,/,traps,traps,stow net,/,/,过渡渔具,transitional
+57,32,流刺网+定置张网+拖网,刺网+拖网+张网,/,/,multiple gears,multi,gillnet+trawl+stow net,/,/,过渡渔具,transitional
+58,32,流刺网+定置张网+拖网,刺网+拖网+张网,/,/,multiple gears,multi,gillnet+trawl+stow net,/,/,过渡渔具,transitional
+59,32,流刺网+定置张网+拖网,刺网+拖网+张网,/,/,multiple gears,multi,gillnet+trawl+stow net,/,/,过渡渔具,transitional
+60,32,流刺网+定置张网+拖网,刺网+拖网+张网,/,/,multiple gears,multi,gillnet+trawl+stow net,/,/,过渡渔具,transitional
+61,33,单片型刺网,刺网,单片,漂流,gillnets and entangling nets,g,gillnet,single,drift,准用渔具,permissible
+62,33,"双重型刺
+网",刺网,双重,漂流,gillnets and entangling nets,g,gillnet,double,drift,过渡渔具,transitional
+63,33,三重刺网,刺网,三重,漂流,gillnets and entangling nets,g,gillnet,trammel,drift,过渡渔具,transitional
+64,34,定置张网,张网,/,/,traps,traps,stow net,/,/,过渡渔具,transitional
+65,35,定置网,张网,/,/,traps,traps,stow net,/,/,过渡渔具,transitional
+66,36,刺网+单拖网+双拖网+定置网,刺网+拖网+张网,/,/,multiple gears,multi,gillnet+trawl+stow net,/,/,过渡渔具,transitional
+67,36,刺网+单拖网+双拖网+定置网,刺网+拖网+张网,/,/,multiple gears,multi,gillnet+trawl+stow net,/,/,过渡渔具,transitional
+68,36,刺网+单拖网+双拖网+定置网,刺网+拖网+张网,/,/,multiple gears,multi,gillnet+trawl+stow net,/,/,过渡渔具,transitional
+69,37,灯光罩网,掩罩,/,/,falling gear,f,falling net,/,/,准用渔具,permissible
+70,37,灯光罩网,掩罩,/,/,falling gear,f,falling net,/,/,准用渔具,permissible
+71,38,蟹笼,笼壶,倒须,定置延绳,traps,traps,cage/pot,/,/,准用渔具,permissible
+72,39,折叠式渔笼,笼壶,/,/,traps,traps,cage/pot,/,/,准用渔具,permissible
+73,40,双桩竖杆张网（坛子网）,张网,竖杆,双桩,traps,traps,stow net,vertical,two-peg,过渡渔具,transitional
+74,41,三重刺网,刺网,三重,定置,gillnets and entangling nets,g,gillnet,trammel,fixed,过渡渔具,transitional
+75,41,地笼,笼壶,倒须,散布,traps,traps,cage/pot,/,/,过渡渔具,transitional
+76,41,三重刺网,刺网,三重,定置,gillnets and entangling nets,g,gillnet,trammel,fixed,过渡渔具,transitional
+77,41,地笼,笼壶,倒须,散布,traps,traps,cage/pot,/,/,过渡渔具,transitional
+78,41,三重刺网,刺网,三重,定置,gillnets and entangling nets,g,gillnet,trammel,fixed,过渡渔具,transitional
+79,41,地笼,笼壶,倒须,散布,traps,traps,cage/pot,/,/,过渡渔具,transitional
+80,41,三重刺网,刺网,三重,定置,gillnets and entangling nets,g,gillnet,trammel,fixed,过渡渔具,transitional
+81,41,地笼,笼壶,倒须,散布,traps,traps,cage/pot,/,/,过渡渔具,transitional
+82,41,三重刺网,刺网,三重,定置,gillnets and entangling nets,g,gillnet,trammel,fixed,过渡渔具,transitional
+83,41,地笼,笼壶,倒须,散布,traps,traps,cage/pot,/,/,过渡渔具,transitional
+84,41,三重刺网,刺网,三重,定置,gillnets and entangling nets,g,gillnet,trammel,fixed,过渡渔具,transitional
+85,41,地笼,笼壶,倒须,散布,traps,traps,cage/pot,/,/,过渡渔具,transitional
+86,42,延绳钓,钓具,/,/,hooks and lines,hl,longline,/,/,准用渔具,permissible
+87,42,延绳钓,钓具,/,/,hooks and lines,hl,longline,/,/,准用渔具,permissible
+88,42,延绳钓,钓具,/,/,hooks and lines,hl,longline,/,/,准用渔具,permissible
+89,42,延绳钓,钓具,/,/,hooks and lines,hl,longline,/,/,准用渔具,permissible
+90,43,桁杆单锚张网,张网,桁杆,单锚,traps,traps,stow net,singel-stake,single-anchor,过渡渔具,transitional
+91,44,帆张网,张网,张纲,单锚,traps,traps,stow net,canvas,single-anchor,过渡渔具,transitional
+92,45,灯光敷网,敷网,/,/,lift nets,lift,lift net,/,/,准用渔具,permissible
+93,45,灯光敷网,敷网,/,/,lift nets,lift,lift net,/,/,准用渔具,permissible
+94,45,灯光敷网,敷网,/,/,lift nets,lift,lift net,/,/,准用渔具,permissible
+95,45,灯光敷网,敷网,/,/,lift nets,lift,lift net,/,/,准用渔具,permissible
+96,45,灯光敷网,敷网,/,/,lift nets,lift,lift net,/,/,准用渔具,permissible
+97,46,定置网,张网,/,/,traps,traps,stow net,/,/,过渡渔具,transitional
+98,47,单片刺网,刺网,单片,漂流,gillnets and entangling nets,g,gillnet,single,drift,准用渔具,permissible
+99,47,双重刺网,刺网,双重,漂流,gillnets and entangling nets,g,gillnet,double,drift,过渡渔具,transitional
+100,47,三重刺网,刺网,三重,漂流,gillnets and entangling nets,g,gillnet,trammel,drift,过渡渔具,transitional
+101,48,丁香鱼围网,围网,有囊,双船,seine and surrounding nets,sur,seine,purse,double,准用渔具,permissible
+102,49,单船框架拖网（弓子网）,拖网,框架,单船,trawls,trawls,trawl,beam,single,过渡渔具,transitional
+103,50,流刺网,刺网,/,漂流,gillnets and entangling nets,g,gillnet,/,drift,过渡渔具,transitional
+104,50,流刺网,刺网,/,漂流,gillnets and entangling nets,g,gillnet,/,drift,过渡渔具,transitional
+105,50,流刺网,刺网,/,漂流,gillnets and entangling nets,g,gillnet,/,drift,过渡渔具,transitional
+106,50,流刺网,刺网,/,漂流,gillnets and entangling nets,g,gillnet,/,drift,过渡渔具,transitional
+107,51,地笼,笼壶,倒须,散布,traps,traps,cage/pot,/,/,过渡渔具,transitional
+108,52,双拖网,拖网,/,双船,trawls,trawls,trawl,/,pair,过渡渔具,transitional
+109,53,多锚单片张网,张网,单片,多锚,traps,traps,stow net,single,multi-anchor,过渡渔具,transitional
+110,54,刺网,刺网,三重,定置,gillnets and entangling nets,g,gillnet,trammel,fixed,过渡渔具,transitional
+111,54,地笼,笼壶,倒须,散布,traps,traps,cage/pot,/,/,过渡渔具,transitional
+112,54,刺网,刺网,三重,定置,gillnets and entangling nets,g,gillnet,trammel,fixed,过渡渔具,transitional
+113,54,地笼,笼壶,倒须,散布,traps,traps,cage/pot,/,/,过渡渔具,transitional
+114,54,刺网,刺网,三重,定置,gillnets and entangling nets,g,gillnet,trammel,fixed,过渡渔具,transitional
+115,54,地笼,笼壶,倒须,散布,traps,traps,cage/pot,/,/,过渡渔具,transitional
+116,54,刺网,刺网,三重,定置,gillnets and entangling nets,g,gillnet,trammel,fixed,过渡渔具,transitional
+117,54,地笼,笼壶,倒须,散布,traps,traps,cage/pot,/,/,过渡渔具,transitional
+118,55,单片刺网,刺网,单片,漂流,gillnets and entangling nets,g,gillnet,single,drift,准用渔具,permissible
+119,55,双重刺网,刺网,双重,漂流,gillnets and entangling nets,g,gillnet,double,drift,过渡渔具,transitional
+120,55,三重刺网,刺网,三重,漂流,gillnets and entangling nets,g,gillnet,trammel,drift,过渡渔具,transitional
+121,56,灯光罩网,掩罩,/,/,falling gear,f,falling net,/,/,准用渔具,permissible
+122,56,灯光罩网,掩罩,/,/,falling gear,f,falling net,/,/,准用渔具,permissible
+123,56,灯光罩网,掩罩,/,/,falling gear,f,falling net,/,/,准用渔具,permissible
+124,56,灯光罩网,掩罩,/,/,falling gear,f,falling net,/,/,准用渔具,permissible
+125,57,单杆虾拖网,拖网,桁杆,单船,trawls,trawls,trawl,beam,single,过渡渔具,transitional
+126,57,双杆虾拖网,拖网,桁杆,单船,trawls,trawls,trawl,beam,single,过渡渔具,transitional
+127,58,双拖网,拖网,有翼单囊,双船,trawls,trawls,trawl,winged single-bag,pair,过渡渔具,transitional
+128,59,拖网,拖网,/,单船,trawls,trawls,trawl,single,,过渡渔具,transitional
+129,59,拖网,拖网,/,单船,trawls,trawls,trawl,single,,过渡渔具,transitional
+130,59,拖网,拖网,/,单船,trawls,trawls,trawl,single,,过渡渔具,transitional
+131,60,虾拖网,拖网,桁杆,单船,trawls,trawls,trawl,beam,single,过渡渔具,transitional
+132,61,拖网,拖网,桁杆,单船,trawls,trawls,trawl,beam,single,过渡渔具,transitional
+133,61,拖网,拖网,桁杆,单船,trawls,trawls,trawl,beam,single,过渡渔具,transitional
+134,62,拖网,拖网,桁杆,单船,trawls,trawls,trawl,beam,single,过渡渔具,transitional
+135,62,拖网,拖网,桁杆,单船,trawls,trawls,trawl,beam,single,过渡渔具,transitional
+136,62,拖网,拖网,桁杆,单船,trawls,trawls,trawl,beam,single,过渡渔具,transitional
+137,62,拖网,拖网,桁杆,单船,trawls,trawls,trawl,beam,single,过渡渔具,transitional
+138,63,深水张网,张网,/,/,traps,traps,stow net,/,/,过渡渔具,transitional
+139,64,流刺网,刺网,单片,漂流,gillnets and entangling nets,g,gillnet,single,drift,准用渔具,permissible
+140,65,光诱敷网,敷网,/,/,lift nets,lift,lift net,/,/,准用渔具,permissible
